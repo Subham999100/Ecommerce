@@ -44,6 +44,8 @@ public class CategoryController {
                return new ResponseEntity<>(e.getReason(),e.getStatusCode());
         }
     }
+    
+
 
 
 }
